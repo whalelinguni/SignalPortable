@@ -1,7 +1,5 @@
 # 🐋 Signal Portable
 
-# 🐋 Signal Portable
-
 This is the **second revision of Signal Portable**, a fully self-contained version of the Signal Desktop messaging app.
 
 The original release used the PortableApps.com format, which worked by physically moving files in and out on launch and exit. Unfortunately, this method was prone to issues—if Signal was ever closed improperly (such as during a system crash or power outage), it could result in corrupted, unrecoverable data.

